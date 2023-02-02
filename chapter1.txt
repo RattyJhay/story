@@ -1,0 +1,1 @@
+Hello I'm Ratty Jhay and this is the first chapter of me learning git and the command line. I hope it's fun.
